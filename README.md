@@ -4,7 +4,7 @@ An AI-powered Resume Screening and Candidate Shortlisting System that helps recr
 
 The project uses Natural Language Processing (NLP), Machine Learning, and Python to automate parts of the traditional resume screening process.
 
-🔗 Live Demo: Resume Analyzing System
+🔗 Live Demo: https://resume-analyzing-system-qzktjaqrab3jwcv5enok49.streamlit.app/
 
 
 📌 Project Overview
