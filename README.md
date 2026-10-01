@@ -55,6 +55,7 @@ The analysis can be used as an initial screening mechanism to help recruiters fo
 The application is built using Streamlit, providing a simple interface without requiring a separate frontend framework.
 
 🧰 Tech Stack
+
 Programming Language
 Python
 Frontend / User Interface
