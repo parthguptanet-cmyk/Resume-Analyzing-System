@@ -6,6 +6,16 @@ The project uses Natural Language Processing (NLP), Machine Learning, and Python
 
 🔗 Live Demo: https://resume-analyzing-system-qzktjaqrab3jwcv5enok49.streamlit.app/
 
+<img width="1913" height="752" alt="Screenshot 2026-10-01 151821" src="https://github.com/user-attachments/assets/0de8b025-d969-4906-86c7-8e66df654f03" />
+<br><br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1522" height="340" alt="Screenshot 2026-10-01 151842" src="https://github.com/user-attachments/assets/009795e9-e437-46bf-8dae-accba660084f" />
+<br><br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1466" height="766" alt="Screenshot 2026-10-01 151957" src="https://github.com/user-attachments/assets/8f7de3a9-0772-4253-a5d8-6f64a796aec9" />
+<br><br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📌 Project Overview
 
